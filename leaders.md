@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Md Adnan Alam](mailto:adnan.alam@owasp.org)
+* [Prateek Gupta](mailto:prateek.gupta@owasp.org)
+* [Bharat Bhushan](mailto:bharat.bhushan@owasp.org)
