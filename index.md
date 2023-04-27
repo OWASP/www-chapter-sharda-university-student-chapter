@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Sharda University Student Chapter
-tags: example-tag
+tags: owasp_su
 region: Asia
 meetup-group:
 
