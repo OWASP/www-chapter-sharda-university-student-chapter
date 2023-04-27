@@ -28,7 +28,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 
 ## Welcome
 
-Our mission is to empower our members with the knowledge and skills they need to tackle the most pressing challenges in application security. Through engaging events, interactive workshops, and exhilarating hackathons, we offer a platform for students to learn, grow, and collaborate with like-minded individuals.
+Our mission at OWASP Student Chapter, Sharda University is to empower our members with the knowledge and skills they need to tackle the most pressing challenges in application security. Through engaging events, interactive workshops, and exhilarating hackathons, we offer a platform for students to learn, grow, and collaborate with like-minded individuals.
 
 As a member of our chapter, you'll gain access to exclusive resources, including cutting-edge training materials, insightful webinars, and groundbreaking research papers, to help you stay at the forefront of application security. You'll also have the opportunity to connect with industry experts and cybersecurity leaders, who can provide invaluable insights and guidance.
 
