@@ -27,7 +27,14 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+
+Our mission is to empower our members with the knowledge and skills they need to tackle the most pressing challenges in application security. Through engaging events, interactive workshops, and exhilarating hackathons, we offer a platform for students to learn, grow, and collaborate with like-minded individuals.
+
+As a member of our chapter, you'll gain access to exclusive resources, including cutting-edge training materials, insightful webinars, and groundbreaking research papers, to help you stay at the forefront of application security. You'll also have the opportunity to connect with industry experts and cybersecurity leaders, who can provide invaluable insights and guidance.
+
+Join us and become part of a dynamic community of students and professionals who share a passion for cybersecurity and a commitment to creating a safer digital world. Our chapter is part of the global OWASP community, which is dedicated to improving software security through free and open education, research, and tools.
+
+Whether you're an aspiring cybersecurity professional or simply curious about the world of application security, the OWASP Student Chapter at Sharda University is the place for you. Join us, and together we'll make a positive impact on the security of web applications worldwide. Get ready for an exciting journey!
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
