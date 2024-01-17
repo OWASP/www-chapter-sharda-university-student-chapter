@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Sharda University Student Chapter
 tags: owasp_su
 region: Asia
+country: India
 meetup-group:
 
 ---
